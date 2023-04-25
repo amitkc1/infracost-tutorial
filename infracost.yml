@@ -1,0 +1,6 @@
+version: 0.1
+projects:
+  - path: .
+    name: development
+    include_all_paths: true
+    usage_file: infracost.yml
